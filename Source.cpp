@@ -1,4 +1,4 @@
-// Bioinformatics - Assignment 3
+// Bioinformatics - Multiple Sequence Alignment Entropy
 // By: Anh Dang
 
 #include <iostream>
